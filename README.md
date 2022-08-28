@@ -1,4 +1,4 @@
-<img src="https://hamoodihajjiri.com/assets/images/hamoodihajjiri_banner.png" alt"HamoodiHajjiri Banner">
+![hamoodihajjiri_banner](https://user-images.githubusercontent.com/66524395/187088034-3de7c627-4e51-4556-bd95-1696d887cf28.png)
 
 <!--
 **HamoodiHajjiri/hamoodihajjiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
