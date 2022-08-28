@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://hamoodihajjiri.com/assets/images/hamoodihajjiri_banner.png" alt"HamoodiHajjiri Banner">
 
 <!--
 **HamoodiHajjiri/hamoodihajjiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
