@@ -1,4 +1,4 @@
-![banner](https://github.com/HamoodiHajjiri/hamoodihajjiri/assets/66524395/1bf093e9-0a31-4b14-a1cd-9a8a12f7cf91)
+![banner](https://github.com/HamoodiHajjiri/hamoodihajjiri/assets/66524395/ac87be48-4771-4254-bb85-544339bd61d1)
 
 <!--
 **HamoodiHajjiri/hamoodihajjiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
