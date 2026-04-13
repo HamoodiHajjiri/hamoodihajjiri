@@ -35,6 +35,6 @@ I build at the intersection of cybersecurity, development, and design; some of m
 
 ## • Latest [Projects](https://hamoodihajjiri.com/portfolio)
 
-- **Attitude Discord Bot ([attitudebot.com](https://attitudebot.com/)):** A feature-rich Discord bot used across 1,000+ servers, designed to enhance community engagement with moderation, utility, and interactive systems while maintaining a clean and reliable user experience.
-- **Solacify iOS App ([solacify.app](https://solacify.app/)):** A thoughtfully designed iOS application focused on student wellbeing, promoting mindfulness, awareness, and resilience through a simple and accessible user experience.
-- **CourseMate ([hamoodihajjiri/course-mate.me](https://github.com/hamoodihajjiri/course-mate.me)):** A platform aimed at improving how students navigate academic resources, built to simplify access to course-related materials and enhance overall study efficiency.
+- **Attitude Discord Bot ([attitudebot.com](https://attitudebot.com/)) -** A feature-rich Discord bot used across 1,000+ servers, designed to enhance community engagement with moderation, utility, and interactive systems while maintaining a clean and reliable user experience.
+- **Solacify iOS App ([solacify.app](https://solacify.app/)) -** A thoughtfully designed iOS application focused on student wellbeing, promoting mindfulness, awareness, and resilience through a simple and accessible user experience.
+- **CourseMate ([hamoodihajjiri/course-mate.me](https://github.com/hamoodihajjiri/course-mate.me)) -** A platform aimed at improving how students navigate academic resources, built to simplify access to course-related materials and enhance overall study efficiency.
