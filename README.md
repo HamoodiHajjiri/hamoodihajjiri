@@ -15,9 +15,9 @@ class Hajjiri {
 };
 ```
 
-I'm a curious and driven individual with a deep passion for constantly expanding my knowledge and eagerly exploring new avenues of interest.
+I'm a curious and driven individual with a deep passion for expanding my knowledge and exploring new avenues of interest.
 
-I build at the intersection of cybersecurity, development, and design; some of my work solves student problems, some focuses on uncovering and reporting security flaws, and some reflects my interest in making technical products feel polished, purposeful, and visually memorable. 🤍
+I build at the intersection of cybersecurity, development, and design; some of my work solves student problems, some focuses on uncovering security flaws, and some reflects my interest in making technical products polished, purposeful, and visually memorable. 🤍
 
 ## • Experiences
 
