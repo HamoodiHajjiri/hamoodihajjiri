@@ -2,20 +2,29 @@
 class Hajjiri {
     public:
         string name = "Mohammad Hajjiri";
-        string university = "University of Sharjah";
-        string major = "Cybersecurity Engineering";
 
-        vector<string> focus = {
-            "Cybersecurity",
-            "Web Development",
-            "Creative Technology"
-        };
+        string university = "University of Sharjah";
+        string major = "B.Sc. in Cybersecurity Engineering";
+
+        string focus = { "Hardware", "Artificial Intelligence" };
+        string coursework: { "DSA", "OOP", "CNS", "Digital Forensics" };
 };
 ```
 
-**Hola~ السلام عليكم, I hope you're having a wonderful day, ان شاء الله. 🙈**
+I'm a curious and driven individual with a deep passion for constantly expanding my knowledge and eagerly exploring new avenues of interest.
 
-I build at the intersection of cybersecurity, development, and design, i.e. some of my work solves practical student problems, some focuses on uncovering and reporting security flaws responsibly, and some reflects my interest in making technical products feel polished, purposeful, and visually memorable. 🤍
+I build at the intersection of cybersecurity, development, and design; some of my work solves student problems, some focuses on uncovering and reporting security flaws, and some reflects my interest in making technical products feel polished, purposeful, and visually memorable. 🤍
+
+## • Experiences
+
+- **Web Front-End Developer @ [University of Sharjah](https://www.sharjah.ac.ae/):** I led the front-end redesign of the UOS CGPA Calculator used by 20,000+ students, implementing 5 major usability improvements, including responsive design, persistent GPA storage, & export/import functionality.
+- **Translator & Proofreader @ [Top.gg](https://top.gg/)**: I translated & proofread 8,000+ words of core platform content (actions, dashboards, moderation tools) into Arabic for a Discord bot discovery platform with 8M monthly visits, ensuring consistency across user-facing & technical content.
+
+## • Activities & Leadership
+
+- **Technical Infrastructure Lead @ [Google Developer Groups on Campus, University of Sharjah](https://gdguos.com/)**
+    - I purchased and deployed gdguos.com as the official domain for the GDG UOS chapter, creating a centralized platform used for developer events, technical booths, and student initiatives across the university developer community.
+    - I implemented a business email system for 60+ core members and optimized SEO for the website, driving 3,000+ monthly visits and improving visibility of GDG campus developer activities within the university community.
 
 ## • Latest [Blog](https://hamoodihajjiri.com/blog) Posts
 
