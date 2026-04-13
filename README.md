@@ -2,6 +2,7 @@
 class Hajjiri {
     public:
         string name = "Mohammad Hajjiri";
+        string email = "admin@hamoodihajjiri.com";
 
         string university = "University of Sharjah";
         string major = "B.Sc. in Cybersecurity Engineering";
