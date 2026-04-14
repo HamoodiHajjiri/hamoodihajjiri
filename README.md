@@ -1,3 +1,6 @@
+![Kitten](https://cdn.hamoodihajjiri.com/kitten.png)
+-
+
 Hi everyone, السلام عليكم - I hope you're having a wonderful day, ان شاء الله. 🙈  
 I am absolutely delighted to welcome you to my GitHub portfolio full of creativity.
 
