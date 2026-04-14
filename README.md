@@ -10,8 +10,8 @@ class Hajjiri {
         string university = "University of Sharjah";
         string major = "B.Sc. in Cybersecurity Engineering";
 
-        string focus = { "Hardware", "Artificial Intelligence" };
-        string coursework: { "DSA", "OOP", "CNS", "Digital Forensics" };
+        vector<string> focus = { "Hardware", "Artificial Intelligence" };
+        vector<string> coursework = { "DSA", "OOP", "CNS", "Digital Forensics" };
 };
 ```
 
